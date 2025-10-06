@@ -116,9 +116,9 @@ final_plot <- wrap_plots(plotlist = plotlist) +
 final_plot
 
 if (modelst ==1){
-  modelstn <- "ns"
+  modelstn <- "nonsep"
 } else{
-  modelstn <- "s"
+  modelstn <- "sep"
 }
 
 #ssave the plot
