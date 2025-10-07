@@ -64,8 +64,8 @@ If you use this repository, please cite:
 
 **BibTeX:**
 ```bibtex
-@unpublished{avellaneda2025spatiotemporaldisaggregation,
-  title   = {Bayesian spatio--temporal disaggregation modeling using a diffusion-SPDE approach: a case study of Aerosol Optical Depth in India},
+@unpublished{rodriguez2025spatiotemporaldisaggregation,
+  title   = {Bayesian spatio-temporal disaggregation modeling using a diffusion-SPDE approach: a case study of Aerosol Optical Depth in India},
   author  = {Fernando Rodriguez Avellaneda and Paula Moraga},
   year    = {2025},
   note    = {Manuscript in preparation}
